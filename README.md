@@ -45,6 +45,9 @@ cp .env.example .env
 
 # Iniciar el servidor
 npm run start
+
+# Iniciar el servidor de desarrollo
+npm run dev
 ```
 
 ## 🔑 Variables de Entorno
@@ -57,7 +60,7 @@ JWT_SECRET=your_jwt_secret
 
 ## 📖 Documentación
 
-La documentación completa de la API está disponible en `/api-docs` utilizando Swagger UI.
+La documentación completa de la API está disponible en `/api-docs` utilizando Postman.
 
 ## 🧪 Tests
 
